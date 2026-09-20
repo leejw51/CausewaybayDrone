@@ -1,0 +1,11 @@
+[configuration]
+entry_symbol = "gdext_rust_init"
+compatibility_minimum = "4.5"
+reloadable = false
+[libraries]
+macos.debug = "res://bin/libcoast_frontend.dylib"
+macos.release = "res://bin/libcoast_frontend.dylib"
+linux.debug.x86_64 = "res://bin/libcoast_frontend.so"
+linux.release.x86_64 = "res://bin/libcoast_frontend.so"
+windows.debug.x86_64 = "res://bin/coast_frontend.dll"
+windows.release.x86_64 = "res://bin/coast_frontend.dll"

@@ -1,0 +1,1629 @@
+{
+  "accuracy": "Art-directed dressing; base paths, coordinates and terrain come from real-map.json. Not a surveyed tree or bench inventory.",
+  "tree_count": 180,
+  "bench_count": 45,
+  "flowerbed_count": 90,
+  "flower_count": 810,
+  "placements": [
+    {
+      "position": [
+        148.29756008833368,
+        1.2763753236835367,
+        -325.37396353972696
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        136.91581931574692,
+        0.42612070384908707,
+        -303.1164703253301
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        125.53305342323071,
+        -0.2628530360687492,
+        -280.8559726883933
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        114.1510534232307,
+        0.15704135589267001,
+        -258.5969726883933
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        102.76856008833369,
+        1.6895833862474232,
+        -236.3399635397269
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        91.38656008833368,
+        4.398192200159966,
+        -214.08096353972692
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        80.05493519699284,
+        5.853828456607823,
+        -191.7760367091084
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        68.74167912918621,
+        6.939025551452993,
+        -169.48153221140424
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        73.26233051813504,
+        4.194489528953002,
+        -141.25484590097267
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        81.88118191930286,
+        3.4344624463603637,
+        -117.78725045353175
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        90.50033051813504,
+        2.2450606791431285,
+        -94.31984590097268
+      ],
+      "source_road": 37450407,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        376.87768113040585,
+        4.28295278381663,
+        112.67865482307535
+      ],
+      "source_road": 75446395,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        372.7508847037035,
+        3.4428760776406793,
+        137.33443880861068
+      ],
+      "source_road": 75446395,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        731.661971066782,
+        3.7589983556556277,
+        -687.9790227365107
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        756.0391068725042,
+        4.501682409592744,
+        -693.484024339347
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        797.5766045702421,
+        0.6120312561466728,
+        -680.2967503946948
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        818.5478556424292,
+        -1.2719753153224935,
+        -667.5020479513407
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        840.0095701864317,
+        -0.6292466287741052,
+        -653.9858683811149
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        864.6814877621549,
+        1.1936118648887721,
+        -646.354720026992
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        905.7114056425147,
+        6.206360892836211,
+        -619.861448820031
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        925.737660350427,
+        8.029790608338262,
+        -606.113559628794
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        959.2631664928127,
+        9.198143666324432,
+        -570.5289240556427
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        976.0811664928128,
+        6.293087337529741,
+        -552.0319240556427
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        981.3392971496903,
+        3.042374323987693,
+        -516.0592746142275
+      ],
+      "source_road": 75446396,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        714.8531653298893,
+        -0.17454461368654706,
+        -664.6512143837207
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        696.577960106573,
+        -2.2921551498951676,
+        -619.76788254639
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        685.0121358898134,
+        6.268243670806474,
+        -598.0672729514542
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        672.2071012733751,
+        9.897384850165079,
+        -577.1937732317559
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        658.6481012733751,
+        7.448396137998619,
+        -556.1897732317559
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        675.978385878579,
+        3.567799787322582,
+        -530.9908140171103
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        695.2511955208917,
+        3.9214365706162218,
+        -514.5903326291896
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        717.82968425394,
+        9.200538176722308,
+        -476.7414665964547
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        720.736300022025,
+        8.251800338736532,
+        -451.61760103621
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        725.3290351464623,
+        5.915951440721436,
+        -426.8499886289851
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        729.8888525146905,
+        4.241636054132622,
+        -402.270972639015
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        735.1521180759975,
+        6.895713716165739,
+        -377.18087618219494
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        746.3227687967044,
+        9.757587918428221,
+        -353.76274932630605
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        757.1472808726961,
+        11.68823081375806,
+        -331.2297648301281
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        769.566458369359,
+        8.17919809177189,
+        -308.13356016969755
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        791.9538538799646,
+        0.6970171689361029,
+        -292.3556644217225
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        814.8748538799647,
+        -4.31235790515063,
+        -282.3726644217225
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        837.7948538799646,
+        -1.740298327975126,
+        -272.3896644217225
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        859.2838202913009,
+        3.3314130707044134,
+        -260.6126320842069
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        897.425355077861,
+        7.366723237371743,
+        -231.63934663743368
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        913.9091957712031,
+        6.78769323095545,
+        -213.56070150400328
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        929.747019290872,
+        7.803413410363909,
+        -194.6314676346648
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        949.5515048933291,
+        10.165610306358726,
+        -151.67923534179985
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        956.4662062772043,
+        3.8340542127038844,
+        -103.47647250405326
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        957.0441529968774,
+        -0.308141718463364,
+        -79.37574378335343
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        944.6472237424408,
+        -4.951162385395266,
+        -33.27960349332741
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        919.3471812440046,
+        0.47953512810561716,
+        5.857346189708368
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        899.6078736636767,
+        4.269095164567392,
+        19.807470139256175
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        878.6134470682732,
+        4.89702336089685,
+        32.06215542951523
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        832.9777719720269,
+        5.085454460009265,
+        47.92382718296345
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        786.37229121746,
+        5.363279864060826,
+        50.49078300089681
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        761.7933173999991,
+        6.229646807518915,
+        45.90208527935633
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        737.5659605932319,
+        8.005575664955952,
+        40.561428832015366
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        713.8438279136061,
+        10.328821431870258,
+        34.09259560737509
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        689.719153134747,
+        13.56393127334734,
+        27.326346842422694
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        664.6612516068786,
+        15.303786266858431,
+        22.09749076372922
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        638.4721860757404,
+        14.803166409061301,
+        19.051048196398057
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        612.98002183391,
+        12.362611661295478,
+        21.31726935274929
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        587.8264198729444,
+        11.22923524510623,
+        30.60128030670072
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        565.6052548392698,
+        10.934704434455476,
+        44.35086856975289
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        547.0369658693,
+        11.322192128234466,
+        62.57624409116501
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        530.3069658693,
+        10.054127382105523,
+        81.153244091165
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        513.5759658693,
+        6.914354125631737,
+        99.72924409116501
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        496.853524672402,
+        3.519239257999785,
+        117.66876456948683
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        478.86961044888835,
+        2.0823873672671946,
+        134.5244664708699
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        436.81682192581053,
+        4.200723840407532,
+        157.0264358116645
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        413.9263896414414,
+        6.486132650159314,
+        164.86256217815705
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        390.4926944230015,
+        7.009520861106184,
+        170.06799271796996
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        346.4272645869006,
+        0.8772483403733378,
+        158.5839672243178
+      ],
+      "source_road": 75446398,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        211.43746777558545,
+        5.67744866041327,
+        -329.4557024480396
+      ],
+      "source_road": 75542628,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        112.3034435980784,
+        2.082786608222533,
+        -196.66778715284116
+      ],
+      "source_road": 75542629,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        -97.9917526606211,
+        3.291704159218648,
+        5.301426575927315
+      ],
+      "source_road": 75542634,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        -89.7037526606211,
+        2.7168051092359184,
+        28.887426575927314
+      ],
+      "source_road": 75542634,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        -81.39012794360099,
+        1.534143979239539,
+        52.472883302271164
+      ],
+      "source_road": 75542634,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        74.24506127238062,
+        1.8498472025533137,
+        -69.699582747775
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        50.77065746615964,
+        2.0968667778883274,
+        -61.09943479874805
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        27.295959329092632,
+        1.300574870147229,
+        -52.49717893661248
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        3.8229593290926385,
+        1.07935315823411,
+        -43.894178936612484
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        -19.648938727619385,
+        1.580259719254055,
+        -35.291582747774996
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        -43.1218365568798,
+        3.315577617119153,
+        -26.69198640753384
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        -66.59793872761938,
+        4.583859083769333,
+        -18.091582747775
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        -137.02351692595056,
+        1.0982058500960794,
+        7.6757036165753565
+      ],
+      "source_road": 75542636,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        733.6199939194988,
+        -2.7613668519304686,
+        -747.7132591731859
+      ],
+      "source_road": 75952399,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        734.5139939194988,
+        -1.976825445417737,
+        -772.6972591731859
+      ],
+      "source_road": 75952399,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        632.4497575315245,
+        3.7509607847345245,
+        -558.2854448874857
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        607.8552469450649,
+        2.4656696908344062,
+        -544.1359498046357
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        602.8752469450649,
+        0.09163991699261603,
+        -519.6369498046358
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        598.1736439751379,
+        -1.2939504246749594,
+        -494.9899729277518
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        579.9850825751232,
+        2.474063243175669,
+        -450.24000636430327
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        549.5094181550028,
+        7.034084460729721,
+        -412.14744240484777
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        535.3795877952914,
+        8.238683373353018,
+        -390.15132511397235
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        525.2678952249784,
+        4.512886189703148,
+        -366.314207742284
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        518.2838952249783,
+        1.1843835527062676,
+        -342.31020774228404
+      ],
+      "source_road": 162460608,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        730.2015249030435,
+        12.242227301272301,
+        -268.5937706877858
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        714.2255249030435,
+        13.615393145419864,
+        -287.8227706877858
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        691.7026545996634,
+        20.35183151089542,
+        -328.74778872960644
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        690.6292270097862,
+        11.866327385055875,
+        -377.40533433706247
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        684.4543890013937,
+        4.901654377066003,
+        -426.7532597967476
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        660.6759331850644,
+        4.40337607856597,
+        -470.5612499381733
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        643.0620755059934,
+        2.15032413567252,
+        -489.47607999411184
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        624.8810755059934,
+        1.3909915674752749,
+        -506.6360799941118
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        570.9251744007885,
+        2.012631011629053,
+        -553.3336085646959
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        556.8657790676046,
+        2.3526381019827785,
+        -574.0061898253759
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        542.5183169574299,
+        2.749327617550517,
+        -594.5809718547243
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        529.0482496053053,
+        6.7805745955292736,
+        -614.9993954297577
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        509.2139374638748,
+        15.206156544202713,
+        -634.5388234245719
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        482.2088081898242,
+        12.913558717455663,
+        -637.3305767596961
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        454.67477211944845,
+        10.740031240965292,
+        -630.2817807357995
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        438.20886411337347,
+        13.461975052435482,
+        -609.9004582054026
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        424.2527731204801,
+        15.457657735288501,
+        -587.8659878362763
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        339.0631479023484,
+        18.69513805132969,
+        -502.25356848022346
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        305.0776177039574,
+        15.891736460734734,
+        -466.65973646250995
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        290.67661709200144,
+        16.61201275276809,
+        -447.02716009956015
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        282.94161370236395,
+        17.362364448499942,
+        -420.4545046369018
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        291.3646011151499,
+        15.979401955155037,
+        -394.0163011887988
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        318.88379998980105,
+        13.425354596095318,
+        -398.14169224439286
+      ],
+      "source_road": 162460609,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        693.0082475325745,
+        17.418459955123225,
+        -9.002446553531538
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        719.8275263570864,
+        13.715570019554422,
+        -45.72472350088732
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        763.378631259036,
+        2.8375509090851145,
+        -63.79201155181877
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        785.7386773197883,
+        -2.2101877635713203,
+        -78.38556069634078
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        802.027889932597,
+        -3.452136965437199,
+        -99.66743152558216
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        812.7835846721351,
+        0.19028133063920394,
+        -122.69688479509796
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        823.634883858813,
+        5.699159565926034,
+        -144.57520884510492
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        835.6232084235054,
+        9.81075749764388,
+        -165.97586931708446
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        848.9062084235054,
+        12.840033012042072,
+        -187.15486931708446
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        858.9130749563643,
+        11.36022432645503,
+        -211.784797014205
+      ],
+      "source_road": 162460611,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        754.4614989098019,
+        11.794760573567784,
+        -288.5695581004601
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        694.5407176151065,
+        11.011520506703766,
+        -255.08958530875745
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        669.0732185921086,
+        9.107365951312373,
+        -254.53986497883307
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        643.8081837759236,
+        4.916705826381298,
+        -241.9887803288689
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        618.030904745128,
+        5.931808745741723,
+        -260.82927469250336
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        593.7362035501029,
+        11.253340586928372,
+        -274.1420997690197
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        566.820744212921,
+        15.584317493127607,
+        -274.9061467626734
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        531.0347152464191,
+        10.047253451077514,
+        -296.9307226095409
+      ],
+      "source_road": 162460615,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        169.45525922195083,
+        4.066057239484721,
+        -534.5302240513067
+      ],
+      "source_road": 239950025,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        145.57961304989752,
+        4.6929405611692525,
+        -541.9401142464649
+      ],
+      "source_road": 239950025,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        134.24192490391337,
+        1.027064646749833,
+        -125.33783122090014
+      ],
+      "source_road": 239950160,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        146.6069835884218,
+        -0.2224460685197718,
+        -100.9475533217257
+      ],
+      "source_road": 239950160,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        168.46821398882184,
+        -0.9621703466461317,
+        -89.57823828803512
+      ],
+      "source_road": 239950160,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        191.2342758296612,
+        -0.10025393526954246,
+        -51.96526448007977
+      ],
+      "source_road": 239950160,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        179.64554822134033,
+        -1.7399690975325495,
+        -9.35946960801576
+      ],
+      "source_road": 239950160,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        185.14857389409963,
+        -2.7512857750821573,
+        18.999026395672615
+      ],
+      "source_road": 239950160,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        120.06872176997472,
+        1.5354573137949656,
+        -157.80415683164452
+      ],
+      "source_road": 239950161,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        144.96433902999456,
+        -1.026001252802476,
+        -150.97631096280372
+      ],
+      "source_road": 239950161,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        190.76227647206025,
+        -1.7239712746505893,
+        51.083428358936814
+      ],
+      "source_road": 239950225,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        208.94949033871202,
+        -3.969174852687971,
+        26.953263221226962
+      ],
+      "source_road": 239950225,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        216.67122597639008,
+        4.40832030570651,
+        96.86514242777497
+      ],
+      "source_road": 239950226,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        487.0450064956616,
+        7.0141506066775685,
+        92.1136611426354
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        459.46769796835963,
+        9.50821572834072,
+        91.1053401381791
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        434.94175372161135,
+        11.261353218558664,
+        92.41635109541346
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        408.877039166496,
+        8.59630354576814,
+        95.93815513004304
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        343.07939099451966,
+        1.0315811697010844,
+        87.03327990844357
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        327.2516366582381,
+        -0.7484372365214975,
+        49.449966827399855
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        318.4008412317472,
+        -3.5159511057906916,
+        22.78579457394501
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        328.10036150536513,
+        -0.16677511977969273,
+        -18.589227654496923
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        338.14627179539934,
+        2.588897877157568,
+        -42.11059017229924
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        336.3134794442776,
+        0.12438538234314978,
+        -70.06578192844776
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        323.1396309655088,
+        1.7459706456976307,
+        -93.98780531972638
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        302.3798390836273,
+        3.0960870216940317,
+        -111.17997788427866
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        305.052607557146,
+        7.338896953075041,
+        -149.32051568021942
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        304.47843434620216,
+        6.459024183833686,
+        -178.30138022035567
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        282.0393196612285,
+        1.705793055418353,
+        -196.9636363248794
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        255.53601792438474,
+        -0.3060211746703761,
+        -199.69916450139738
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        227.0694880113768,
+        3.3536216131431495,
+        -230.31263037704153
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        219.3388798784631,
+        4.771787402756187,
+        -275.5202507447535
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        220.2740917482802,
+        5.434472634315619,
+        -300.2432221544161
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        218.80729778010283,
+        3.4843546304198365,
+        -373.8796253870495
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        224.3505680678303,
+        4.127631765967256,
+        -398.25881406786544
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        227.72892052513873,
+        7.765022768232596,
+        -423.7724829303479
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        241.36361452037252,
+        8.354826746309362,
+        -469.38609588031153
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        269.88439921223807,
+        1.5932721953852873,
+        -505.5821435950452
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        288.56147329339524,
+        -3.8024779661856067,
+        -522.4022972545268
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        306.8614732933953,
+        -1.977410328927721,
+        -539.4342972545269
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        347.7595542929654,
+        6.865884328700336,
+        -565.4135123285532
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        369.6151948132367,
+        7.37689206756467,
+        -578.8943997151147
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    },
+    {
+      "position": [
+        389.497725709623,
+        5.4686627329500626,
+        -594.1833567214745
+      ],
+      "source_road": 239950327,
+      "placement": "artistic path-side dressing, not surveyed vegetation"
+    }
+  ]
+}

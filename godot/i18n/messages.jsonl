@@ -1,0 +1,213 @@
+{"en": "MENU [M]", "ko": "메뉴 [M]", "ja": "メニュー [M]", "yue_HK": "選單 [M]", "zh_CN": "菜单 [M]", "cs": "MENU [M]"}
+{"en": "START", "ko": "시작", "ja": "開始", "yue_HK": "開始", "zh_CN": "开始", "cs": "SPUSTIT"}
+{"en": "STOP", "ko": "일시 정지", "ja": "一時停止", "yue_HK": "暫停", "zh_CN": "暂停", "cs": "POZASTAVIT"}
+{"en": "3RD PERSON", "ko": "3인칭", "ja": "三人称", "yue_HK": "第三身視角", "zh_CN": "第三人称", "cs": "POHLED ZVENČÍ"}
+{"en": "1ST PERSON", "ko": "1인칭", "ja": "一人称", "yue_HK": "第一身視角", "zh_CN": "第一人称", "cs": "POHLED Z DRONU"}
+{"en": "CAFE", "ko": "상점 보기", "ja": "店舗を見る", "yue_HK": "睇店舖", "zh_CN": "查看商店", "cs": "OBCHOD"}
+{"en": "CUSTOMER", "ko": "고객 보기", "ja": "顧客を見る", "yue_HK": "睇顧客", "zh_CN": "查看顾客", "cs": "ZÁKAZNÍK"}
+{"en": "OPERATIONS / DISPATCH", "ko": "운영 / 배차", "ja": "運用 / 配車", "yue_HK": "營運 / 派單", "zh_CN": "运营 / 调度", "cs": "PROVOZ / DISPEČINK"}
+{"en": "Mode", "ko": "모드", "ja": "モード", "yue_HK": "模式", "zh_CN": "模式", "cs": "Režim"}
+{"en": "Solo", "ko": "단일", "ja": "単独", "yue_HK": "單機", "zh_CN": "单机", "cs": "Jeden dron"}
+{"en": "Massive", "ko": "대규모", "ja": "大規模", "yue_HK": "大規模", "zh_CN": "大规模", "cs": "Velký provoz"}
+{"en": "Drones", "ko": "드론 수", "ja": "ドローン数", "yue_HK": "無人機數量", "zh_CN": "无人机数量", "cs": "Počet dronů"}
+{"en": "Shops", "ko": "상점 수", "ja": "店舗数", "yue_HK": "店舖數量", "zh_CN": "商店数量", "cs": "Počet obchodů"}
+{"en": "Customers", "ko": "고객 수", "ja": "顧客数", "yue_HK": "顧客人數", "zh_CN": "客户人数", "cs": "Počet zákazníků"}
+{"en": "Language", "ko": "언어", "ja": "言語", "yue_HK": "語言", "zh_CN": "语言", "cs": "Jazyk"}
+{"en": "NEW SIMULATION / APPLY COUNTS", "ko": "새 시뮬레이션 / 수량 적용", "ja": "新規シミュレーション / 数を適用", "yue_HK": "新模擬 / 套用數量", "zh_CN": "新建模拟 / 应用数量", "cs": "NOVÁ SIMULACE / POUŽÍT POČTY"}
+{"en": "AUTONOMOUS / people order automatically", "ko": "자율 운영 / 고객 자동 주문", "ja": "自律運用 / 顧客が自動注文", "yue_HK": "自主運作 / 顧客自動落單", "zh_CN": "自主运行 / 客户自动下单", "cs": "AUTONOMNÍ / automatické objednávky"}
+{"en": "PLACE AN ORDER", "ko": "주문하기", "ja": "注文する", "yue_HK": "落單", "zh_CN": "下单", "cs": "VYTVOŘIT OBJEDNÁVKU"}
+{"en": "Sandwich", "ko": "샌드위치", "ja": "サンドイッチ", "yue_HK": "三文治", "zh_CN": "三明治", "cs": "Sendvič"}
+{"en": "Coffee", "ko": "커피", "ja": "コーヒー", "yue_HK": "咖啡", "zh_CN": "咖啡", "cs": "Káva"}
+{"en": "Sandwich + Coffee", "ko": "샌드위치 + 커피", "ja": "サンドイッチ + コーヒー", "yue_HK": "三文治 + 咖啡", "zh_CN": "三明治 + 咖啡", "cs": "Sendvič + káva"}
+{"en": "Quantity", "ko": "수량", "ja": "数量", "yue_HK": "數量", "zh_CN": "数量", "cs": "Množství"}
+{"en": "Customer", "ko": "고객", "ja": "顧客", "yue_HK": "顧客", "zh_CN": "客户", "cs": "Zákazník"}
+{"en": "Shop", "ko": "상점", "ja": "店舗", "yue_HK": "店舖", "zh_CN": "商店", "cs": "Obchod"}
+{"en": "Receive at", "ko": "수령 위치", "ja": "受取場所", "yue_HK": "收貨位置", "zh_CN": "收货位置", "cs": "Místo doručení"}
+{"en": "Outside", "ko": "야외", "ja": "屋外", "yue_HK": "戶外", "zh_CN": "室外", "cs": "Venku"}
+{"en": "Apartment window", "ko": "아파트 창문", "ja": "アパートの窓", "yue_HK": "住宅窗口", "zh_CN": "公寓窗口", "cs": "Okno bytu"}
+{"en": "Outdoor delivery", "ko": "야외 배송", "ja": "屋外配達", "yue_HK": "戶外交收", "zh_CN": "室外交付", "cs": "Venkovní doručení"}
+{"en": "ORDER / SEND TO ROBOT CHEF", "ko": "주문 / 로봇 요리사에게 전송", "ja": "注文 / 調理ロボットへ送信", "yue_HK": "落單 / 交畀煮食機械人", "zh_CN": "下单 / 发送给厨师机器人", "cs": "OBJEDNAT / ODESLAT ROBOTOVI"}
+{"en": "MASSIVE / ORDER FOR EVERYONE", "ko": "전체 고객 주문", "ja": "全顧客の注文を作成", "yue_HK": "幫全部顧客落單", "zh_CN": "为所有客户下单", "cs": "OBJEDNAT PRO VŠECHNY"}
+{"en": "Drone voice announcements", "ko": "드론 음성 안내", "ja": "ドローン音声案内", "yue_HK": "無人機語音提示", "zh_CN": "无人机语音播报", "cs": "Hlasová hlášení dronů"}
+{"en": "Connecting...", "ko": "연결 중…", "ja": "接続中…", "yue_HK": "連線中…", "zh_CN": "连接中…", "cs": "Připojování…"}
+{"en": "AUTONOMOUS DELIVERY / SEOUL DIGITAL WORLD", "ko": "자율 배송 / 서울 디지털 월드", "ja": "自律配送 / ソウル・デジタルワールド", "yue_HK": "自主配送 / 首爾數碼世界", "zh_CN": "自主配送 / 首尔数字世界", "cs": "AUTONOMNÍ DORUČOVÁNÍ / DIGITÁLNÍ SOUL"}
+{"en": "press spackey to continue", "ko": "스페이스 키를 눌러 계속", "ja": "スペースキーで続行", "yue_HK": "撳空白鍵繼續", "zh_CN": "按空格键继续", "cs": "pokračujte stisknutím mezerníku"}
+{"en": "CONTINUE  [ SPACE ]", "ko": "계속 [ 스페이스 ]", "ja": "続行 [ スペース ]", "yue_HK": "繼續 [ 空白鍵 ]", "zh_CN": "继续 [ 空格键 ]", "cs": "POKRAČOVAT [ MEZERNÍK ]"}
+{"en": "OPERATIONS", "ko": "운영 현황", "ja": "運用状況", "yue_HK": "營運概況", "zh_CN": "运营概况", "cs": "PŘEHLED PROVOZU"}
+{"en": "SHOPS / QUEUES", "ko": "상점 / 대기열", "ja": "店舗 / 待ち行列", "yue_HK": "店舖 / 輪候訂單", "zh_CN": "商店 / 等待队列", "cs": "OBCHODY / FRONTY"}
+{"en": "CUSTOMERS", "ko": "고객", "ja": "顧客", "yue_HK": "顧客", "zh_CN": "客户", "cs": "ZÁKAZNÍCI"}
+{"en": "LIVE ORDERS", "ko": "주문 현황", "ja": "注文状況", "yue_HK": "即時訂單", "zh_CN": "实时订单", "cs": "AKTUÁLNÍ OBJEDNÁVKY"}
+{"en": "RUST FFI / WEBSOCKET CONNECTED", "ko": "시뮬레이션 서버 연결됨", "ja": "シミュレーションサーバー接続済み", "yue_HK": "已連接模擬伺服器", "zh_CN": "已连接模拟服务器", "cs": "PŘIPOJENO K SIMULACI"}
+{"en": "BACKEND OFFLINE / RECONNECTING", "ko": "서버 오프라인 / 재연결 중", "ja": "サーバー切断 / 再接続中", "yue_HK": "伺服器離線 / 重新連線中", "zh_CN": "服务器离线 / 正在重连", "cs": "SERVER NEDOSTUPNÝ / OBNOVUJI SPOJENÍ"}
+{"en": "RUNNING", "ko": "실행 중", "ja": "実行中", "yue_HK": "運行中", "zh_CN": "运行中", "cs": "BĚŽÍ"}
+{"en": "STOPPED", "ko": "일시 정지", "ja": "一時停止", "yue_HK": "已暫停", "zh_CN": "已暂停", "cs": "POZASTAVENO"}
+{"en": "IDLE", "ko": "대기", "ja": "待機", "yue_HK": "待命", "zh_CN": "待命", "cs": "VOLNÝ"}
+{"en": "ORDERED", "ko": "주문 접수", "ja": "注文受付", "yue_HK": "已落單", "zh_CN": "已下单", "cs": "OBJEDNÁNO"}
+{"en": "COOKING", "ko": "조리 중", "ja": "調理中", "yue_HK": "煮緊", "zh_CN": "烹饪中", "cs": "PŘÍPRAVA"}
+{"en": "PACKING", "ko": "포장 중", "ja": "梱包中", "yue_HK": "包裝緊", "zh_CN": "包装中", "cs": "BALENÍ"}
+{"en": "SHIPPING", "ko": "출고 중", "ja": "出荷中", "yue_HK": "出貨中", "zh_CN": "出货中", "cs": "EXPEDICE"}
+{"en": "READY", "ko": "출고 준비 완료", "ja": "出荷準備完了", "yue_HK": "可以出貨", "zh_CN": "待取货", "cs": "PŘIPRAVENO"}
+{"en": "HANDOFF", "ko": "드론 인계", "ja": "ドローンへ引渡し", "yue_HK": "交畀無人機", "zh_CN": "移交无人机", "cs": "PŘEDÁNÍ DRONU"}
+{"en": "OUT FOR DELIVERY", "ko": "배송 중", "ja": "配達中", "yue_HK": "送緊貨", "zh_CN": "配送中", "cs": "NA CESTĚ"}
+{"en": "DELIVERING", "ko": "배송 중", "ja": "配達中", "yue_HK": "送緊貨", "zh_CN": "配送中", "cs": "DORUČOVÁNÍ"}
+{"en": "DELIVERED", "ko": "배송 완료", "ja": "配達完了", "yue_HK": "送到喇", "zh_CN": "已送达", "cs": "DORUČENO"}
+{"en": "FAILED", "ko": "실패", "ja": "失敗", "yue_HK": "失敗", "zh_CN": "失败", "cs": "NEÚSPĚCH"}
+{"en": "TO CAFE", "ko": "상점으로 이동", "ja": "店舗へ移動", "yue_HK": "去緊店舖", "zh_CN": "前往商店", "cs": "LET DO OBCHODU"}
+{"en": "WAITING FOR FOOD", "ko": "음식 대기", "ja": "料理待ち", "yue_HK": "等緊餐點", "zh_CN": "等待餐点", "cs": "ČEKÁ NA JÍDLO"}
+{"en": "LOADING", "ko": "적재 중", "ja": "積載中", "yue_HK": "裝貨中", "zh_CN": "装货中", "cs": "NAKLÁDÁNÍ"}
+{"en": "UNLOADING", "ko": "상품 전달 중", "ja": "荷物引渡し中", "yue_HK": "交緊貨", "zh_CN": "交付中", "cs": "VYKLÁDÁNÍ"}
+{"en": "RETURNING", "ko": "복귀 중", "ja": "帰還中", "yue_HK": "返緊基地", "zh_CN": "返回基地", "cs": "NÁVRAT"}
+{"en": "READY FOR ORDERS", "ko": "주문 대기", "ja": "注文待ち", "yue_HK": "等緊落單", "zh_CN": "等待订单", "cs": "ČEKÁ NA OBJEDNÁVKY"}
+{"en": "WAITING FOR ORDERS", "ko": "주문 대기", "ja": "注文待ち", "yue_HK": "等緊落單", "zh_CN": "等待订单", "cs": "ČEKÁ NA OBJEDNÁVKY"}
+{"en": "WAITING", "ko": "대기", "ja": "待機", "yue_HK": "等候中", "zh_CN": "等待中", "cs": "ČEKÁNÍ"}
+{"en": " / ROBOT KITCHEN", "ko": " / 로봇 주방", "ja": " / ロボットキッチン", "yue_HK": " / 機械人廚房", "zh_CN": " / 机器人厨房", "cs": " / ROBOTICKÁ KUCHYNĚ"}
+{"en": "ROBOT SHIPPING / DISPATCH CONVEYOR", "ko": "로봇 출고 / 컨베이어", "ja": "ロボット出荷 / コンベア", "yue_HK": "機械人出貨 / 輸送帶", "zh_CN": "机器人出货 / 传送带", "cs": "EXPEDICE / DOPRAVNÍK"}
+{"en": "ROBOT SHIPPING / LIFT HANDOFF", "ko": "로봇 출고 / 리프트 인계", "ja": "ロボット出荷 / リフト引渡し", "yue_HK": "機械人出貨 / 升降台交收", "zh_CN": "机器人出货 / 升降台移交", "cs": "EXPEDICE / PŘEDÁNÍ ZVEDÁKEM"}
+{"en": "ROBOT COOKING / %d%%", "ko": "로봇 조리 / %d%%", "ja": "ロボット調理 / %d%%", "yue_HK": "機械人煮食 / %d%%", "zh_CN": "机器人烹饪 / %d%%", "cs": "ROBOT VAŘÍ / %d%%"}
+{"en": "ROBOT PACKING / ORDER #%02d", "ko": "로봇 포장 / 주문 #%02d", "ja": "ロボット梱包 / 注文 #%02d", "yue_HK": "機械人包裝 / 訂單 #%02d", "zh_CN": "机器人包装 / 订单 #%02d", "cs": "ROBOT BALÍ / OBJEDNÁVKA #%02d"}
+{"en": "ORDER #%02d / READY FOR DRONE", "ko": "주문 #%02d / 드론 픽업 대기", "ja": "注文 #%02d / ドローン待ち", "yue_HK": "訂單 #%02d / 等無人機取貨", "zh_CN": "订单 #%02d / 等待无人机取货", "cs": "OBJEDNÁVKA #%02d / ČEKÁ NA DRON"}
+{"en": "DRONE %02d", "ko": "드론 %02d", "ja": "ドローン %02d", "yue_HK": "無人機 %02d", "zh_CN": "无人机 %02d", "cs": "DRON %02d"}
+{"en": "DRONE %02d / %s", "ko": "드론 %02d / %s", "ja": "ドローン %02d / %s", "yue_HK": "無人機 %02d / %s", "zh_CN": "无人机 %02d / %s", "cs": "DRON %02d / %s"}
+{"en": "DRONE %02d / %s\nBAT %.0f%% / %.2f kg", "ko": "드론 %02d / %s\n배터리 %.0f%% / %.2f kg", "ja": "ドローン %02d / %s\n電池 %.0f%% / %.2f kg", "yue_HK": "無人機 %02d / %s\n電量 %.0f%% / %.2f kg", "zh_CN": "无人机 %02d / %s\n电量 %.0f%% / %.2f kg", "cs": "DRON %02d / %s\nBATERIE %.0f%% / %.2f kg"}
+{"en": "Mean fulfillment: %.1f sim seconds\n", "ko": "평균 배송 시간: %.1f 시뮬레이션 초\n", "ja": "平均配送時間: %.1f シミュレーション秒\n", "yue_HK": "平均送貨時間：%.1f 模擬秒\n", "zh_CN": "平均配送时间：%.1f 模拟秒\n", "cs": "Průměrné doručení: %.1f sim. sekund\n"}
+{"en": "Mean fulfillment: awaiting delivery\n", "ko": "평균 배송 시간: 첫 배송 대기\n", "ja": "平均配送時間: 初回配達待ち\n", "yue_HK": "平均送貨時間：等緊首次送達\n", "zh_CN": "平均配送时间：等待首次送达\n", "cs": "Průměrné doručení: čeká na doručení\n"}
+{"en": "\nFLEET TELEMETRY\n", "ko": "\n드론 운항 정보\n", "ja": "\nドローン飛行情報\n", "yue_HK": "\n機隊飛行數據\n", "zh_CN": "\n机队飞行数据\n", "cs": "\nTELEMETRIE FLOTILY\n"}
+{"en": "No orders yet\n\n", "ko": "아직 주문 없음\n\n", "ja": "注文はまだありません\n\n", "yue_HK": "仲未有訂單\n\n", "zh_CN": "暂无订单\n\n", "cs": "Zatím žádné objednávky\n\n"}
+{"en": "Hello chef. Ready to collect the order.", "ko": "안녕하세요. 주문한 음식을 받으러 왔습니다.", "ja": "こんにちは。注文の料理を受け取りに来ました。", "yue_HK": "你好，我嚟攞餐喇。", "zh_CN": "你好，我来取餐了。", "cs": "Dobrý den, přiletěl jsem vyzvednout objednávku."}
+{"en": "Items secured. On my way to the customer.", "ko": "상품을 적재했습니다. 고객에게 출발합니다.", "ja": "荷物を積みました。お客様へ向かいます。", "yue_HK": "裝好貨喇，而家送畀顧客。", "zh_CN": "货物已装好，正在前往客户处。", "cs": "Náklad zajištěn. Letím k zákazníkovi."}
+{"en": "Hello! Your order has arrived.", "ko": "안녕하세요. 주문하신 상품이 도착했습니다.", "ja": "こんにちは。ご注文の品をお届けしました。", "yue_HK": "你好，你嘅餐送到喇！", "zh_CN": "你好，你的餐点送到了！", "cs": "Dobrý den! Vaše objednávka dorazila."}
+{"en": "Delivery complete. Thank you. Returning to base.", "ko": "배송을 완료했습니다. 감사합니다. 기지로 복귀합니다.", "ja": "配達完了です。ありがとうございます。基地へ戻ります。", "yue_HK": "送完貨喇，多謝！而家返基地。", "zh_CN": "配送完成，谢谢！正在返回基地。", "cs": "Doručení dokončeno. Děkujeme. Vracím se na základnu."}
+{"en": "Stop simulation before changing counts", "ko": "수량을 변경하려면 먼저 일시 정지하세요", "ja": "数を変更する前に一時停止してください", "yue_HK": "改數量之前請先暫停", "zh_CN": "修改数量前请先暂停", "cs": "Před změnou počtů pozastavte simulaci"}
+{"en": "Wait for the backend connection", "ko": "서버 연결을 기다려 주세요", "ja": "サーバー接続をお待ちください", "yue_HK": "請等伺服器連線", "zh_CN": "请等待服务器连接", "cs": "Počkejte na připojení k serveru"}
+{"en": "Backend disconnected — reconnecting", "ko": "서버 연결 끊김 — 재연결 중", "ja": "サーバー切断 — 再接続中", "yue_HK": "伺服器斷線 — 重新連線中", "zh_CN": "服务器断线 — 正在重连", "cs": "Spojení přerušeno — připojuji znovu"}
+{"en": "Connecting to Rust backend...", "ko": "시뮬레이션 서버 연결 중…", "ja": "シミュレーションサーバー接続中…", "yue_HK": "連接模擬伺服器中…", "zh_CN": "正在连接模拟服务器…", "cs": "Připojování k serveru simulace…"}
+{"en": "%s    |    DRONES %d    SHOPS %d    CUSTOMERS %d    |    DELIVERED %d / %d    |    %.1f s", "ko": "%s | 드론 %d  상점 %d  고객 %d | 배송 %d / %d | %.1f 초", "ja": "%s | ドローン %d  店舗 %d  顧客 %d | 配達 %d / %d | %.1f 秒", "yue_HK": "%s | 無人機 %d  店舖 %d  顧客 %d | 送達 %d / %d | %.1f 秒", "zh_CN": "%s | 无人机 %d  商店 %d  客户 %d | 送达 %d / %d | %.1f 秒", "cs": "%s | DRONY %d  OBCHODY %d  ZÁKAZNÍCI %d | DORUČENO %d / %d | %.1f s"}
+{"en": "AUTONOMOUS DELIVERY SIMULATOR\n\nFleet working: %d / %d\nPending orders: %d\nDelivered: %d  |  Failed: %d\n", "ko": "자율 배송 시뮬레이터\n\n가동 드론: %d / %d\n미완료 주문: %d\n배송 완료: %d | 실패: %d\n", "ja": "自律配送シミュレーター\n\n稼働ドローン: %d / %d\n未完了注文: %d\n配達済み: %d | 失敗: %d\n", "yue_HK": "自主配送模擬器\n\n工作中無人機：%d / %d\n未完成訂單：%d\n已送達：%d | 失敗：%d\n", "zh_CN": "自主配送模拟器\n\n工作中无人机：%d / %d\n未完成订单：%d\n已送达：%d | 失败：%d\n", "cs": "SIMULÁTOR AUTONOMNÍHO DORUČOVÁNÍ\n\nPracující drony: %d / %d\nNevyřízené objednávky: %d\nDoručeno: %d | Selhalo: %d\n"}
+{"en": "\nDRONE %02d / %s\n%.1f m/s  |  Battery %.0f%%\nPayload %.2f kg\n", "ko": "\n드론 %02d / %s\n%.1f m/s | 배터리 %.0f%%\n적재량 %.2f kg\n", "ja": "\nドローン %02d / %s\n%.1f m/s | 電池 %.0f%%\n積載量 %.2f kg\n", "yue_HK": "\n無人機 %02d / %s\n%.1f m/s | 電量 %.0f%%\n載貨 %.2f kg\n", "zh_CN": "\n无人机 %02d / %s\n%.1f m/s | 电量 %.0f%%\n载货 %.2f kg\n", "cs": "\nDRON %02d / %s\n%.1f m/s | Baterie %.0f%%\nNáklad %.2f kg\n"}
+{"en": "%s\nRobot: %s\nQueue: %d  |  Delivered: %d\n\n", "ko": "%s\n로봇: %s\n대기: %d | 배송 완료: %d\n\n", "ja": "%s\nロボット: %s\n待機: %d | 配達済み: %d\n\n", "yue_HK": "%s\n機械人：%s\n輪候：%d | 已送達：%d\n\n", "zh_CN": "%s\n机器人：%s\n等待：%d | 已送达：%d\n\n", "cs": "%s\nRobot: %s\nVe frontě: %d | Doručeno: %d\n\n"}
+{"en": "APARTMENT %02d / OPEN DELIVERY WINDOW", "ko": "아파트 %02d / 배송 창문 열림", "ja": "アパート %02d / 配達用窓開放", "yue_HK": "住宅 %02d / 送貨窗口已開", "zh_CN": "公寓 %02d / 配送窗口已打开", "cs": "BYT %02d / OTEVŘENÉ OKNO PRO DORUČENÍ"}
+{"en": "DRONE %02d / IDLE", "ko": "드론 %02d / 대기", "ja": "ドローン %02d / 待機", "yue_HK": "無人機 %02d / 待命", "zh_CN": "无人机 %02d / 待命", "cs": "DRON %02d / VOLNÝ"}
+{"en": "RMB drag: orbit   ·   Wheel: zoom   ·   V: camera   ·   M: menu", "ko": "마우스 오른쪽 드래그: 회전 · 휠: 확대 · V: 시점 · M: 메뉴", "ja": "右ドラッグ: 回転 · ホイール: ズーム · V: 視点 · M: メニュー", "yue_HK": "右鍵拖曳：旋轉 · 滾輪：縮放 · V：視角 · M：選單", "zh_CN": "右键拖动：旋转 · 滚轮：缩放 · V：视角 · M：菜单", "cs": "Pravé tlačítko: otáčení · Kolečko: přiblížení · V: kamera · M: menu"}
+{"en": "Sound effects", "ko": "효과음", "ja": "効果音", "yue_HK": "音效", "zh_CN": "音效", "cs": "Zvukové efekty"}
+{"en": "Effects volume", "ko": "효과음 음량", "ja": "効果音の音量", "yue_HK": "音效音量", "zh_CN": "音效音量", "cs": "Hlasitost efektů"}
+{"en": "Mass %.2f kg / Thrust %.1f N\n", "ko": "질량 %.2f kg / 추력 %.1f N\n", "ja": "質量 %.2f kg / 推力 %.1f N\n", "yue_HK": "質量 %.2f kg / 推力 %.1f N\n", "zh_CN": "质量 %.2f kg / 推力 %.1f N\n", "cs": "Hmotnost %.2f kg / Tah %.1f N\n"}
+{"en": "FLEET SERVICE", "ko": "드론 정비", "ja": "機体整備", "yue_HK": "無人機維修", "zh_CN": "无人机维护", "cs": "ÚDRŽBA FLOTILY"}
+{"en": "CHARGE SELECTED DRONE", "ko": "선택 드론 충전", "ja": "選択機を充電", "yue_HK": "幫揀選嘅無人機充電", "zh_CN": "给选中无人机充电", "cs": "NABÍT VYBRANÝ DRON"}
+{"en": "REPAIR SELECTED DRONE", "ko": "선택 드론 수리", "ja": "選択機を修理", "yue_HK": "維修揀選嘅無人機", "zh_CN": "维修选中无人机", "cs": "OPRAVIT VYBRANÝ DRON"}
+{"en": "SIMULATE DRONE FAULT", "ko": "드론 고장 시뮬레이션", "ja": "機体故障を再現", "yue_HK": "模擬無人機故障", "zh_CN": "模拟无人机故障", "cs": "SIMULOVAT PORUCHU DRONU"}
+{"en": "VIEW SERVICE DOCK", "ko": "정비 도크 보기", "ja": "整備ドックを見る", "yue_HK": "睇維修站", "zh_CN": "查看维护站", "cs": "ZOBRAZIT SERVISNÍ DOK"}
+{"en": "CHARGING", "ko": "충전 중", "ja": "充電中", "yue_HK": "充電中", "zh_CN": "充电中", "cs": "NABÍJENÍ"}
+{"en": "DIAGNOSING", "ko": "고장 진단 중", "ja": "診断中", "yue_HK": "檢查緊", "zh_CN": "诊断中", "cs": "DIAGNOSTIKA"}
+{"en": "REPAIRING", "ko": "수리 중", "ja": "修理中", "yue_HK": "維修緊", "zh_CN": "维修中", "cs": "OPRAVA"}
+{"en": "RECOVERY RETURN", "ko": "정비 복귀 중", "ja": "整備へ帰還中", "yue_HK": "返緊維修站", "zh_CN": "返回维护站", "cs": "NÁVRAT DO SERVISU"}
+{"en": "RETURNING ITEMS", "ko": "상품 회수 중", "ja": "荷物回収中", "yue_HK": "回收緊貨物", "zh_CN": "回收货物中", "cs": "VRACENÍ ZBOŽÍ"}
+{"en": "AVOIDING TRAFFIC", "ko": "다른 드론 회피 중", "ja": "他機を回避中", "yue_HK": "避緊其他無人機", "zh_CN": "正在避让其他无人机", "cs": "VYHÝBÁNÍ PROVOZU"}
+{"en": "SERVICE DOCK %02d / %s", "ko": "정비 도크 %02d / %s", "ja": "整備ドック %02d / %s", "yue_HK": "維修站 %02d / %s", "zh_CN": "维护站 %02d / %s", "cs": "SERVISNÍ DOK %02d / %s"}
+{"en": "Health %.0f%% / Charges %d / Repairs %d\n", "ko": "기체 상태 %.0f%% / 충전 %d / 수리 %d\n", "ja": "機体状態 %.0f%% / 充電 %d / 修理 %d\n", "yue_HK": "機體狀況 %.0f%% / 充電 %d / 維修 %d\n", "zh_CN": "机体状态 %.0f%% / 充电 %d / 维修 %d\n", "cs": "Stav %.0f%% / Nabíjení %d / Opravy %d\n"}
+{"en": "Service elapsed %.0f s\n", "ko": "정비 경과 %.0f 초\n", "ja": "整備経過 %.0f 秒\n", "yue_HK": "維修已用 %.0f 秒\n", "zh_CN": "维护已用 %.0f 秒\n", "cs": "Doba servisu %.0f s\n"}
+{"en": "Drone is already in service", "ko": "이미 정비 중인 드론입니다", "ja": "この機体は整備中です", "yue_HK": "呢架無人機已經維修緊", "zh_CN": "该无人机已在维护中", "cs": "Dron je již v servisu"}
+{"en": "CHALLENGES", "ko": "도전 미션", "ja": "チャレンジ", "yue_HK": "挑戰任務", "zh_CN": "挑战任务", "cs": "VÝZVY"}
+{"en": "RUSH HOUR / 10 MINUTES", "ko": "러시 아워 / 10분", "ja": "ラッシュアワー / 10分", "yue_HK": "繁忙時間 / 10分鐘", "zh_CN": "高峰时段 / 10分钟", "cs": "DOPRAVNÍ ŠPIČKA / 10 MINUT"}
+{"en": "Director camera", "ko": "자동 연출 카메라", "ja": "自動演出カメラ", "yue_HK": "自動運鏡", "zh_CN": "自动运镜", "cs": "Režijní kamera"}
+{"en": "DELIVERY COMPLETE  +%d  /  COMBO ×%d", "ko": "배송 완료  +%d  /  콤보 ×%d", "ja": "配達完了  +%d  /  コンボ ×%d", "yue_HK": "送貨完成  +%d  /  連擊 ×%d", "zh_CN": "配送完成  +%d  /  连击 ×%d", "cs": "DORUČENO  +%d  /  KOMBO ×%d"}
+{"en": "SCORE %06d   /   BEST COMBO ×%d", "ko": "점수 %06d   /   최고 콤보 ×%d", "ja": "スコア %06d   /   最高コンボ ×%d", "yue_HK": "分數 %06d   /   最高連擊 ×%d", "zh_CN": "分数 %06d   /   最高连击 ×%d", "cs": "SKÓRE %06d   /   NEJLEPŠÍ KOMBO ×%d"}
+{"en": "RUSH HOUR  %d/%d  •  %02d:%02d remaining", "ko": "러시 아워  %d/%d  •  남은 시간 %02d:%02d", "ja": "ラッシュアワー  %d/%d  •  残り %02d:%02d", "yue_HK": "繁忙時間  %d/%d  •  剩返 %02d:%02d", "zh_CN": "高峰时段  %d/%d  •  剩余 %02d:%02d", "cs": "ŠPIČKA  %d/%d  •  Zbývá %02d:%02d"}
+{"en": "MISSION COMPLETE!  +1000 BONUS", "ko": "미션 성공!  보너스 +1000", "ja": "ミッション達成！ ボーナス +1000", "yue_HK": "任務完成！ 獎勵 +1000", "zh_CN": "任务完成！ 奖励 +1000", "cs": "MISE SPLNĚNA!  BONUS +1000"}
+{"en": "TIME UP — try another challenge", "ko": "시간 종료 — 다시 도전하세요", "ja": "時間切れ — 再挑戦しましょう", "yue_HK": "時間到 — 再挑戰啦", "zh_CN": "时间到 — 再次挑战吧", "cs": "ČAS VYPRŠEL — zkuste další výzvu"}
+{"en": "Deliver within 60 seconds of the last delivery to build a combo!", "ko": "이전 배송 후 60초 안에 배송하면 콤보가 올라갑니다!", "ja": "前の配達から60秒以内に届けるとコンボが増加！", "yue_HK": "上次送貨後60秒內再送到，就有連擊！", "zh_CN": "上次配送后60秒内再次送达，即可累积连击！", "cs": "Doručte do 60 sekund od poslední zásilky a zvyšte kombo!"}
+{"en": "Configure a simulation first", "ko": "먼저 시뮬레이션을 구성하세요", "ja": "先にシミュレーションを設定してください", "yue_HK": "請先設定模擬", "zh_CN": "请先配置模拟", "cs": "Nejprve nastavte simulaci"}
+{"en": "Challenge already active", "ko": "이미 미션을 진행 중입니다", "ja": "チャレンジは進行中です", "yue_HK": "挑戰進行緊", "zh_CN": "挑战正在进行中", "cs": "Výzva již probíhá"}
+{"en": "PARK WILDLIFE", "ko": "공원 동물", "ja": "公園の動物", "yue_HK": "公園動物", "zh_CN": "公园动物", "cs": "ZVÍŘATA V PARKU"}
+{"en": "LONE TREE", "ko": "나홀로나무", "ja": "ひとりぼっちの木", "yue_HK": "孤獨樹", "zh_CN": "孤独树", "cs": "OSAMĚLÝ STROM"}
+{"en": "WATCH CATS / RABBITS", "ko": "고양이 / 토끼 보기", "ja": "ネコ / ウサギを見る", "yue_HK": "睇貓 / 兔仔", "zh_CN": "看猫 / 兔子", "cs": "POZOROVAT KOČKY / KRÁLÍKY"}
+{"en": "Orders", "ko": "주문", "ja": "注文", "yue_HK": "訂單", "zh_CN": "订单", "cs": "Objednávky"}
+{"en": "Fleet", "ko": "드론 관리", "ja": "機体管理", "yue_HK": "機隊", "zh_CN": "机队", "cs": "Flotila"}
+{"en": "Settings", "ko": "설정", "ja": "設定", "yue_HK": "設定", "zh_CN": "设置", "cs": "Nastavení"}
+{"en": "Pause", "ko": "일시정지", "ja": "一時停止", "yue_HK": "暫停", "zh_CN": "暂停", "cs": "Pozastavit"}
+{"en": "Start", "ko": "시작", "ja": "開始", "yue_HK": "開始", "zh_CN": "开始", "cs": "Spustit"}
+{"en": "Details", "ko": "상세 정보", "ja": "詳細", "yue_HK": "詳情", "zh_CN": "详情", "cs": "Podrobnosti"}
+{"en": "Horizontal / Vertical mode", "ko": "가로 / 세로 모드", "ja": "横 / 縦モード", "yue_HK": "橫向 / 直向模式", "zh_CN": "横屏 / 竖屏模式", "cs": "Na šířku / na výšku"}
+{"en": "Free camera [F]", "ko": "자유 카메라 [F]", "ja": "自由カメラ [F]", "yue_HK": "自由鏡頭 [F]", "zh_CN": "自由镜头 [F]", "cs": "Volná kamera [F]"}
+{"en": "Follow drone", "ko": "드론 따라가기", "ja": "ドローン追従", "yue_HK": "跟隨無人機", "zh_CN": "跟随无人机", "cs": "Sledovat dron"}
+{"en": "Drone cockpit", "ko": "드론 1인칭", "ja": "ドローン視点", "yue_HK": "無人機第一身", "zh_CN": "无人机第一视角", "cs": "Pohled dronu"}
+{"en": "Auto camera", "ko": "자동 카메라", "ja": "自動カメラ", "yue_HK": "自動鏡頭", "zh_CN": "自动镜头", "cs": "Automatická kamera"}
+{"en": "Close  ×", "ko": "닫기  ×", "ja": "閉じる  ×", "yue_HK": "關閉  ×", "zh_CN": "关闭  ×", "cs": "Zavřít  ×"}
+{"en": "Send a delivery", "ko": "배달 주문", "ja": "配達を注文", "yue_HK": "落配送單", "zh_CN": "下配送单", "cs": "Odeslat zásilku"}
+{"en": "Your simulation", "ko": "시뮬레이션 설정", "ja": "シミュレーション設定", "yue_HK": "模擬設定", "zh_CN": "模拟设置", "cs": "Vaše simulace"}
+{"en": "Choose a meal and destination.", "ko": "음식과 배달 장소를 선택하세요.", "ja": "食事と配達先を選択してください。", "yue_HK": "選擇餐點同目的地。", "zh_CN": "选择餐点和目的地。", "cs": "Vyberte jídlo a cíl."}
+{"en": "Explore & service", "ko": "둘러보기와 정비", "ja": "探索と整備", "yue_HK": "探索及維修", "zh_CN": "探索和维护", "cs": "Průzkum a servis"}
+{"en": "Audio", "ko": "오디오", "ja": "音声", "yue_HK": "音效", "zh_CN": "音效", "cs": "Zvuk"}
+{"en": "Place order", "ko": "주문하기", "ja": "注文する", "yue_HK": "落單", "zh_CN": "下单", "cs": "Objednat"}
+{"en": "Order for everyone", "ko": "전체 고객 주문", "ja": "全員分を注文", "yue_HK": "為所有人落單", "zh_CN": "为所有人下单", "cs": "Objednat pro všechny"}
+{"en": "Start the simulation to prepare and deliver orders.", "ko": "시뮬레이션을 시작하면 조리와 배달이 진행됩니다.", "ja": "シミュレーションを開始すると調理と配達が進みます。", "yue_HK": "開始模擬即可烹調同配送。", "zh_CN": "开始模拟即可烹饪和配送。", "cs": "Spusťte simulaci pro přípravu a doručení."}
+{"en": "Apartment balcony", "ko": "아파트 발코니", "ja": "アパートのバルコニー", "yue_HK": "住宅露台", "zh_CN": "公寓阳台", "cs": "Balkon bytu"}
+{"en": "Random Camera", "ko": "랜덤 카메라", "ja": "ランダムカメラ", "yue_HK": "隨機鏡頭", "zh_CN": "随机镜头", "cs": "Náhodná kamera"}
+{"en": "PARK ADVENTURES / CONNECTED ROBOTICS", "ko": "공원 속 모험 / 연결된 로봇들", "ja": "公園の冒険 / つながるロボット", "yue_HK": "公園冒險 / 互聯機械人", "zh_CN": "公园冒险 / 互联机器人", "cs": "DOBRODRUŽSTVÍ V PARKU / PROPOJENÍ ROBOTI"}
+{"en": "APARTMENT %02d / BALCONY DELIVERY", "ko": "아파트 %02d / 발코니 배달", "ja": "アパート %02d / バルコニー配達", "yue_HK": "住宅 %02d / 露台送貨", "zh_CN": "公寓 %02d / 阳台配送", "cs": "BYT %02d / DORUČENÍ NA BALKON"}
+{"en": "RMB: orbit · Wheel: zoom · F: free fly · M: menu", "ko": "우클릭: 회전 · 휠: 확대 · F: 자유 비행 · M: 메뉴", "ja": "右ドラッグ: 回転 · ホイール: ズーム · F: 自由飛行 · M: メニュー", "yue_HK": "右鍵：環繞 · 滾輪：縮放 · F：自由飛行 · M：選單", "zh_CN": "右键：环绕 · 滚轮：缩放 · F：自由飞行 · M：菜单", "cs": "Pravé tlačítko: oblet · Kolečko: přiblížení · F: volný let · M: menu"}
+{"en": "WASD: fly · Q/E: down/up · RMB: look · Shift: boost · Wheel: speed · F: exit", "ko": "WASD: 비행 · Q/E: 하강/상승 · 우클릭: 보기 · Shift: 가속 · 휠: 속도 · F: 종료", "ja": "WASD: 飛行 · Q/E: 下降/上昇 · 右ドラッグ: 視点 · Shift: 加速 · ホイール: 速度 · F: 終了", "yue_HK": "WASD：飛行 · Q/E：下降/上升 · 右鍵：視角 · Shift：加速 · 滾輪：速度 · F：退出", "zh_CN": "WASD：飞行 · Q/E：下降/上升 · 右键：视角 · Shift：加速 · 滚轮：速度 · F：退出", "cs": "WASD: let · Q/E: dolů/nahoru · Pravé tlačítko: pohled · Shift: zrychlení · Kolečko: rychlost · F: konec"}
+{"en": "Your park. Your fleet. Let the deliveries begin.", "ko": "우리 공원, 나의 드론들. 배달 모험을 시작해요!", "ja": "みんなの公園、あなたのドローン。配達の冒険を始めよう！", "yue_HK": "我哋嘅公園，你嘅機隊。開始送貨冒險啦！", "zh_CN": "我们的公园，你的机队。开始配送冒险吧！", "cs": "Tvůj park. Tvoje flotila. Dobrodružství s doručováním začíná!"}
+{"en": "Sandwiches, coffee, and little adventures.", "ko": "샌드위치, 커피, 그리고 작은 모험들.", "ja": "サンドイッチとコーヒー、そして小さな冒険。", "yue_HK": "三文治、咖啡，同埋小小冒險。", "zh_CN": "三明治、咖啡，还有小小的冒险。", "cs": "Sendviče, káva a malá dobrodružství."}
+{"en": "HAPPY CUSTOMERS  /  ROBOT CHEFS  /  FLYING FRIENDS", "ko": "행복한 손님들  /  로봇 요리사  /  하늘 위 친구들", "ja": "笑顔のお客さん  /  ロボットシェフ  /  空飛ぶ仲間", "yue_HK": "開心顧客  /  機械人廚師  /  飛行好友", "zh_CN": "开心顾客  /  机器人厨师  /  飞行伙伴", "cs": "SPOKOJENÍ ZÁKAZNÍCI  /  ROBOTI KUCHAŘI  /  LÉTAJÍCÍ PŘÁTELÉ"}
+{"en": "%s   ·   %d drones   ·   %d delivered", "ko": "%s   ·   드론 %d대   ·   배달 완료 %d건", "ja": "%s   ·   ドローン %d機   ·   配達完了 %d件", "yue_HK": "%s   ·   %d 架無人機   ·   已送達 %d 單", "zh_CN": "%s   ·   %d 架无人机   ·   已送达 %d 单", "cs": "%s   ·   Drony: %d   ·   Doručeno: %d"}
+{"en": "%d deliveries completed · %d active orders\nPickup → Deliver → Return → Charge", "ko": "배달 완료 %d건 · 진행 중 %d건\n픽업 → 배달 → 복귀 → 충전", "ja": "配達完了 %d件 · 進行中 %d件\n受取 → 配達 → 帰還 → 充電", "yue_HK": "已送達 %d 單 · 處理中 %d 單\n取貨 → 送貨 → 返航 → 充電", "zh_CN": "已送达 %d 单 · 处理中 %d 单\n取货 → 配送 → 返航 → 充电", "cs": "Doručeno: %d · Aktivní objednávky: %d\nVyzvednutí → Doručení → Návrat → Nabíjení"}
+{"en": "Instant charge", "ko": "즉시 충전", "ja": "即時充電", "yue_HK": "即時充電", "zh_CN": "立即充电", "cs": "Okamžité nabití"}
+{"en": "Dashboard", "ko": "대시보드", "ja": "ダッシュボード", "yue_HK": "總覽", "zh_CN": "总览", "cs": "Přehled"}
+{"en": "Delivered", "ko": "배달 완료", "ja": "配達完了", "yue_HK": "已送達", "zh_CN": "已送达", "cs": "Doručeno"}
+{"en": "Pending orders", "ko": "진행 중 주문", "ja": "進行中の注文", "yue_HK": "處理中訂單", "zh_CN": "处理中订单", "cs": "Aktivní objednávky"}
+{"en": "Fleet working", "ko": "활동 중 드론", "ja": "稼働中ドローン", "yue_HK": "運作中無人機", "zh_CN": "运行中无人机", "cs": "Aktivní drony"}
+{"en": "Average battery", "ko": "평균 배터리", "ja": "平均バッテリー", "yue_HK": "平均電量", "zh_CN": "平均电量", "cs": "Průměr baterie"}
+{"en": "Mean delivery time", "ko": "평균 배송 시간", "ja": "平均配達時間", "yue_HK": "平均送貨時間", "zh_CN": "平均配送时间", "cs": "Průměrná doba doručení"}
+{"en": "Needs attention", "ko": "점검 필요", "ja": "要確認", "yue_HK": "需要留意", "zh_CN": "需要关注", "cs": "Vyžaduje pozornost"}
+{"en": "Deliveries / last 60 simulation seconds", "ko": "최근 시뮬레이션 60초 배달 현황", "ja": "直近のシミュレーション60秒の配達", "yue_HK": "最近模擬60秒送貨量", "zh_CN": "最近模拟60秒配送量", "cs": "Doručení za posledních 60 sekund simulace"}
+{"en": "Fleet / click a drone to follow", "ko": "드론 목록 / 누르면 따라가기", "ja": "ドローン一覧 / クリックで追跡", "yue_HK": "機隊 / 按一下跟隨", "zh_CN": "机队 / 点击跟随", "cs": "Flotila / kliknutím sledujte dron"}
+{"en": "Robot kitchens", "ko": "로봇 주방", "ja": "ロボットキッチン", "yue_HK": "機械人廚房", "zh_CN": "机器人厨房", "cs": "Robotické kuchyně"}
+{"en": "Recent orders", "ko": "최근 주문", "ja": "最近の注文", "yue_HK": "最近訂單", "zh_CN": "最近订单", "cs": "Poslední objednávky"}
+{"en": "Live connection", "ko": "실시간 연결", "ja": "リアルタイム接続", "yue_HK": "即時連線", "zh_CN": "实时连接", "cs": "Živé připojení"}
+{"en": "Connection lost / last received data", "ko": "연결 끊김 / 마지막 수신 데이터", "ja": "接続切断 / 最後の受信データ", "yue_HK": "連線中斷 / 上次接收資料", "zh_CN": "连接断开 / 最后接收数据", "cs": "Spojení ztraceno / poslední přijatá data"}
+{"en": "Queue: %d", "ko": "대기: %d건", "ja": "待機: %d件", "yue_HK": "等候：%d 單", "zh_CN": "等待：%d 单", "cs": "Ve frontě: %d"}
+{"en": "%.1f s", "ko": "%.1f초", "ja": "%.1f秒", "yue_HK": "%.1f秒", "zh_CN": "%.1f秒", "cs": "%.1f s"}
+{"en": "Each bar: 5 simulation seconds / oldest to newest", "ko": "막대당 시뮬레이션 5초 / 과거부터 현재", "ja": "各棒はシミュレーション5秒 / 過去から現在", "yue_HK": "每柱模擬5秒 / 由舊至新", "zh_CN": "每柱模拟5秒 / 从旧到新", "cs": "Sloupec: 5 sekund simulace / nejstarší až nejnovější"}
+{"en": "Speed %.1f m/s / Height %.1f m\nPayload %.2f kg / Health %.0f%%", "ko": "속도 %.1f m/s / 지상 높이 %.1f m\n적재량 %.2f kg / 기체 상태 %.0f%%", "ja": "速度 %.1f m/s / 対地高度 %.1f m\n積載 %.2f kg / 機体状態 %.0f%%", "yue_HK": "速度 %.1f m/s / 離地高度 %.1f m\n載重 %.2f kg / 機身狀態 %.0f%%", "zh_CN": "速度 %.1f m/s / 离地高度 %.1f m\n载重 %.2f kg / 机体状态 %.0f%%", "cs": "Rychlost %.1f m/s / Výška nad zemí %.1f m\nNáklad %.2f kg / Stav %.0f%%"}
+{"en": "No active delivery", "ko": "현재 배달 작업 없음", "ja": "現在の配達なし", "yue_HK": "暫時冇送貨任務", "zh_CN": "暂无配送任务", "cs": "Žádné aktivní doručení"}
+{"en": "Horizontal", "ko": "가로", "ja": "横画面", "yue_HK": "橫向", "zh_CN": "横向", "cs": "Na šířku"}
+{"en": "Vertical", "ko": "세로", "ja": "縦画面", "yue_HK": "直向", "zh_CN": "纵向", "cs": "Na výšku"}
+{"en": "Story", "ko": "스토리", "ja": "ストーリー", "yue_HK": "故事", "zh_CN": "故事", "cs": "Příběh"}
+{"en": "Back", "ko": "뒤로", "ja": "戻る", "yue_HK": "返回", "zh_CN": "返回", "cs": "Zpět"}
+{"en": "AI DRONE SIMULATOR", "ko": "AI 드론 시뮬레이터", "ja": "AIドローンシミュレーター", "yue_HK": "AI 無人機模擬器", "zh_CN": "AI 无人机模拟器", "cs": "SIMULÁTOR AI DRONŮ"}
+{"en": "PRESS SPACEKEY TO CONTINUE", "ko": "스페이스 키를 눌러 계속", "ja": "スペースキーで続ける", "yue_HK": "撳空白鍵繼續", "zh_CN": "按空格键继续", "cs": "POKRAČUJTE MEZERNÍKEM"}
+{"en": "RUST CON / SEOUL", "ko": "RUST CON / 서울", "ja": "RUST CON / ソウル", "yue_HK": "RUST CON / 首爾", "zh_CN": "RUST CON / 首尔", "cs": "RUST CON / SOUL"}
+{"en": "Rust Con has come to Seoul Olympic Park. Developers gather beneath the trees, ready to share ideas and build something wonderful.", "ko": "서울 올림픽공원에 Rust Con이 열렸습니다. 개발자들이 나무 아래 모여 아이디어를 나누고 멋진 무언가를 만들 준비를 합니다.", "ja": "ソウルのオリンピック公園でRust Conが開かれます。木々の下に集まった開発者たちは、アイデアを分かち合い、素敵なものを作ろうとしています。", "yue_HK": "Rust Con嚟到首爾奧林匹克公園。開發者聚喺樹蔭下，準備分享諗法，一齊整啲精彩嘅嘢。", "zh_CN": "Rust Con来到首尔奥林匹克公园。开发者们聚在树荫下，准备分享创意，一起创造美好的事物。", "cs": "Rust Con dorazil do Olympijského parku v Soulu. Vývojáři se scházejí pod stromy, aby sdíleli nápady a vytvořili něco úžasného."}
+{"en": "LUNCH IS ON RUST CODER", "ko": "점심은 Rust Coder가 쏩니다!", "ja": "ランチはRust Coderのおごり！", "yue_HK": "午餐由Rust Coder請客！", "zh_CN": "午餐由Rust Coder请客！", "cs": "OBĚD ZVE RUST CODER"}
+{"en": "Rust Coder has a surprise for the participants: Subway sandwiches and Starbucks iced coffee. But how can one coder deliver lunch to everyone?", "ko": "Rust Coder가 참가자들을 위해 Subway 샌드위치와 Starbucks 아이스커피를 준비했습니다. 그런데 혼자서 모두에게 어떻게 배달할까요?", "ja": "Rust Coderは参加者にSubwayのサンドイッチとStarbucksのアイスコーヒーを用意しました。でも、一人でみんなに届けるにはどうすればいいのでしょう？", "yue_HK": "Rust Coder準備咗Subway三文治同Starbucks凍咖啡請大家。不過得一個人，點樣送到每位參加者手上呢？", "zh_CN": "Rust Coder为大家准备了Subway三明治和Starbucks冰咖啡。可是，一个人怎么把午餐送到每位参与者手中呢？", "cs": "Rust Coder připravil překvapení: sendviče Subway a ledovou kávu Starbucks. Jak ale jeden programátor doručí oběd všem účastníkům?"}
+{"en": "A FRIENDLY SIGNAL", "ko": "반가운 신호", "ja": "やさしいシグナル", "yue_HK": "友善嘅訊號", "zh_CN": "友善的信号", "cs": "PŘÁTELSKÝ SIGNÁL"}
+{"en": "Good Skynet answers: I want to help, Rust Coder! Together, they build a friendly fleet of AI drones and robot chefs.", "ko": "착한 Skynet이 대답합니다. 내가 도와줄게, Rust Coder! 둘은 함께 친절한 AI 드론들과 로봇 요리사들을 만듭니다.", "ja": "善良なSkynetが答えます。手伝いたいよ、Rust Coder！二人は力を合わせ、やさしいAIドローンとロボットシェフを作ります。", "yue_HK": "善良嘅Skynet回應：Rust Coder，我想幫你！佢哋一齊打造友善嘅AI無人機同機械人廚師。", "zh_CN": "善良的Skynet回应：Rust Coder，我想帮你！他们一起打造友善的AI无人机和机器人厨师。", "cs": "Hodný Skynet odpovídá: Chci ti pomoct, Rust Codere! Společně vytvoří přátelskou flotilu AI dronů a robotických kuchařů."}
+{"en": "SMALL ROBOTS. BIG HEARTS.", "ko": "작은 로봇, 커다란 마음", "ja": "小さなロボット、大きな思いやり", "yue_HK": "小小機械人，大大愛心", "zh_CN": "小小机器人，大大爱心", "cs": "MALÍ ROBOTI. VELKÁ SRDCE."}
+{"en": "The robots prepare each order. Drones collect the sandwiches and iced coffee, avoid obstacles, and bring a little happiness to every participant.", "ko": "로봇들이 주문을 준비합니다. 드론들은 샌드위치와 아이스커피를 싣고 장애물을 피해 날아가, 참가자들에게 작은 행복을 전합니다.", "ja": "ロボットが注文を準備します。ドローンはサンドイッチとアイスコーヒーを受け取り、障害物をよけながら、参加者に小さな幸せを届けます。", "yue_HK": "機械人準備好每張訂單。無人機拎起三文治同凍咖啡，避開障礙，將小小幸福送畀每位參加者。", "zh_CN": "机器人准备好每份订单。无人机装上三明治和冰咖啡，避开障碍，把小小的幸福送给每位参与者。", "cs": "Roboti připravují objednávky. Drony vyzvednou sendviče a ledovou kávu, vyhnou se překážkám a přinesou každému účastníkovi trochu radosti."}
+{"en": "LET'S FLY TOGETHER", "ko": "함께 날아볼까요?", "ja": "一緒に飛び立とう！", "yue_HK": "一齊起飛啦！", "zh_CN": "一起起飞吧！", "cs": "POLETÍME SPOLEČNĚ"}
+{"en": "The first field trial is ready. Help Rust Coder and good Skynet make every delivery a success. Welcome to Causewaybay Drone!", "ko": "첫 시험 비행이 준비됐습니다. Rust Coder와 착한 Skynet을 도와 모든 배달을 성공시켜 보세요. Causewaybay Drone에 오신 것을 환영합니다!", "ja": "最初の実地テストの準備ができました。Rust Coderと善良なSkynetを助け、すべての配達を成功させましょう。Causewaybay Droneへようこそ！", "yue_HK": "第一次實地試飛準備好喇。幫Rust Coder同善良嘅Skynet完成每次送貨。歡迎嚟到Causewaybay Drone！", "zh_CN": "第一次实地试飞准备好了。帮助Rust Coder和善良的Skynet完成每次配送。欢迎来到Causewaybay Drone！", "cs": "První zkouška v terénu může začít. Pomoz Rust Coderovi a hodnému Skynetu úspěšně doručit každou objednávku. Vítej v Causewaybay Drone!"}
+{"en": "Menu", "ko": "메뉴", "ja": "メニュー", "yue_HK": "選單", "zh_CN": "菜单", "cs": "Menu"}
+{"en": "Play", "ko": "플레이", "ja": "プレイ", "yue_HK": "遊玩", "zh_CN": "游玩", "cs": "Hra"}
+{"en": "Adventure menu", "ko": "모험 메뉴", "ja": "冒険メニュー", "yue_HK": "冒險選單", "zh_CN": "冒险菜单", "cs": "Nabídka dobrodružství"}
+{"en": "Resume flight", "ko": "비행 계속하기", "ja": "飛行を続ける", "yue_HK": "繼續飛行", "zh_CN": "继续飞行", "cs": "Pokračovat v letu"}
+{"en": "A LITTLE PARK. A BIG ADVENTURE.", "ko": "작은 공원, 커다란 모험!", "ja": "小さな公園、大きな冒険！", "yue_HK": "小小公園，大大冒險！", "zh_CN": "小小公园，大大冒险！", "cs": "Malý park. Velké dobrodružství."}
+{"en": "START ADVENTURE", "ko": "모험 시작", "ja": "冒険を始める", "yue_HK": "開始冒險", "zh_CN": "开始冒险", "cs": "ZAČÍT DOBRODRUŽSTVÍ"}
+{"en": "RUST CODER", "ko": "러스트 코더", "ja": "ラスト・コーダー", "yue_HK": "Rust Coder", "zh_CN": "Rust Coder", "cs": "RUST CODER"}
+{"en": "GOOD SKYNET", "ko": "착한 스카이넷", "ja": "やさしいスカイネット", "yue_HK": "好心嘅 Skynet", "zh_CN": "善良的 Skynet", "cs": "HODNÝ SKYNET"}
+{"en": "PARTICIPANT", "ko": "참가자", "ja": "参加者", "yue_HK": "參加者", "zh_CN": "参与者", "cs": "ÚČASTNÍK"}
+{"en": "Welcome to Rust Con, everyone! Seoul Olympic Park is ours for the day. Let's build something amazing!", "ko": "러스트 콘에 온 걸 환영해! 오늘은 서울 올림픽 공원이 우리 무대야. 멋진 걸 만들어 보자!", "ja": "Rust Conへようこそ！今日はソウルのオリンピック公園が僕らの舞台。すごいものを作ろう！", "yue_HK": "歡迎大家嚟 Rust Con！今日首爾奧林匹克公園係我哋嘅舞台。一齊整啲勁嘢啦！", "zh_CN": "欢迎来到 Rust Con！今天首尔奥林匹克公园就是我们的舞台。一起创造精彩吧！", "cs": "Vítejte na Rust Conu! Dnes nám patří olympijský park v Soulu. Pojďme vytvořit něco úžasného!"}
+{"en": "Lunch is on me! Subway sandwiches and Starbucks iced coffee for everyone... Wait. How am I going to carry all of this?", "ko": "점심은 내가 쏜다! 모두에게 서브웨이 샌드위치랑 스타벅스 아이스커피를... 잠깐, 이걸 다 어떻게 나르지?", "ja": "お昼は僕のおごり！みんなにサブウェイとスターバックスのアイスコーヒーを…待って、どうやって運ぼう？", "yue_HK": "午餐我請！人人都有 Subway 三文治同 Starbucks 凍咖啡……等等，咁多嘢點搬呀？", "zh_CN": "午餐我请！大家都有赛百味三明治和星巴克冰咖啡……等等，这么多怎么搬呀？", "cs": "Oběd je na mě! Sendviče Subway a ledová káva Starbucks pro všechny… Počkat. Jak to všechno odnesu?"}
+{"en": "Need a hand, Rust Coder? I'm here to help! You bring the ideas. My robot chefs and drones will bring the lunch.", "ko": "도와줄까, 러스트 코더? 내가 있잖아! 넌 아이디어를 가져와. 로봇 요리사와 드론이 점심을 가져갈게!", "ja": "手伝おうか？君はアイデア担当！僕のロボットシェフとドローンがお昼を届けるよ。", "yue_HK": "Rust Coder，要幫手嗎？你負責諗橋，我嘅機械人廚師同無人機負責送午餐！", "zh_CN": "Rust Coder，需要帮忙吗？你负责创意，我的机器人厨师和无人机负责送午餐！", "cs": "Potřebuješ pomoct? Ty přines nápady. Moji robotičtí kuchaři a drony přinesou oběd!"}
+{"en": "Whoa! My lunch flew here?! Thanks, little drone! This is already my favorite Rust Con.", "ko": "우와! 점심이 날아왔어?! 고마워, 꼬마 드론! 이번 러스트 콘이 벌써 최고야!", "ja": "わあ！お昼が飛んできた？！ありがとう、ドローン！最高のRust Conだね！", "yue_HK": "嘩！午餐飛過嚟㗎？！多謝你，小無人機！今次 Rust Con 真係最正！", "zh_CN": "哇！午餐飞来了？！谢谢你，小无人机！这次 Rust Con 太棒了！", "cs": "Páni! Můj oběd přiletěl?! Díky, malý drone! Tohle je nejlepší Rust Con!"}
+{"en": "Ready, Skynet? Let's make everyone smile. Our first delivery adventure starts NOW!", "ko": "준비됐어, 스카이넷? 모두를 웃게 해 주자. 첫 배달 모험, 지금 시작이야!", "ja": "準備はいい？みんなを笑顔にしよう。初めての配達冒険、いま出発！", "yue_HK": "Skynet，準備好未？一齊令大家開心啦。第一次送餐冒險，而家出發！", "zh_CN": "Skynet，准备好了吗？让大家开心起来吧。第一次配送冒险，现在出发！", "cs": "Připraven, Skynete? Rozdávejme úsměvy. Naše první doručovací dobrodružství začíná TEĎ!"}
+{"en": "Fullscreen", "ko": "전체 화면", "ja": "全画面", "yue_HK": "全螢幕", "zh_CN": "全屏", "cs": "Celá obrazovka"}
+{"en": "Windowed", "ko": "창 모드", "ja": "ウィンドウ", "yue_HK": "視窗模式", "zh_CN": "窗口模式", "cs": "V okně"}
+{"en": "Camera to rabbit", "ko": "토끼 보기", "ja": "ウサギを見る", "yue_HK": "睇兔仔", "zh_CN": "看兔子", "cs": "Kamera na králíka"}
+{"en": "Camera to lone tree", "ko": "나홀로나무 보기", "ja": "一本木を見る", "yue_HK": "睇孤獨樹", "zh_CN": "看孤独树", "cs": "Kamera na osamělý strom"}
+{"en": "Applying counts starts a new run and resets current orders.", "ko": "적용하면 새 시뮬레이션을 시작하며 현재 주문을 초기화합니다.", "ja": "適用すると新しいシミュレーションになり、現在の注文はリセットされます。", "yue_HK": "套用會開始新模擬，重設目前訂單。", "zh_CN": "应用将开始新模拟并重置当前订单。", "cs": "Použití zahájí nový běh a resetuje aktuální objednávky."}
+{"en": "Applying counts...", "ko": "수량 적용 중...", "ja": "適用中…", "yue_HK": "套用中…", "zh_CN": "应用中…", "cs": "Používám počty…"}
+{"en": "Could not apply counts. Check the backend connection and retry.", "ko": "적용하지 못했습니다. 서버 연결을 확인하고 다시 시도하세요.", "ja": "適用できません。接続を確認して再試行してください。", "yue_HK": "套用失敗，請檢查連線再試。", "zh_CN": "应用失败，请检查连接后重试。", "cs": "Počty se nepodařilo použít. Zkontrolujte připojení a zkuste to znovu."}
+{"en": "Counts applied: %d drones / %d shops / %d customers", "ko": "적용 완료: 드론 %d / 상점 %d / 고객 %d", "ja": "適用完了：ドローン %d / 店 %d / 顧客 %d", "yue_HK": "已套用：無人機 %d / 店舖 %d / 顧客 %d", "zh_CN": "已应用：无人机 %d / 商店 %d / 客户 %d", "cs": "Použito: %d dronů / %d obchodů / %d zákazníků"}
+{"en": "Drag mouse: orbit / Wheel: zoom", "ko": "마우스 드래그: 회전 / 휠: 확대·축소", "ja": "ドラッグ：回転 / ホイール：ズーム", "yue_HK": "拖曳：旋轉 / 滾輪：縮放", "zh_CN": "拖动：旋转 / 滚轮：缩放", "cs": "Tažení: otáčení / Kolečko: přiblížení"}
+{"en": "Autoplay / Next dialogue", "ko": "자동 진행 / 다음 대사", "ja": "自動再生 / 次のセリフ", "yue_HK": "自動播放 / 下一句", "zh_CN": "自动播放 / 下一句", "cs": "Automaticky / Další dialog"}
+{"en": "RUST CON / OLYMPIC PARK", "ko": "러스트 콘 / 올림픽 공원", "ja": "RUST CON / オリンピック公園", "yue_HK": "RUST CON / 奧林匹克公園", "zh_CN": "RUST CON / 奥林匹克公园", "cs": "RUST CON / OLYMPIJSKÝ PARK"}

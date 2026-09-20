@@ -1,0 +1,18 @@
+{
+  "retrieved_in_session": "2026-09-12",
+  "source": "https://overpass-api.de/api/interpreter",
+  "snapshots": {
+    "osm-source.json": {
+      "timestamp_osm_base": "2026-09-12T06:13:20Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "osm-park.json": {
+      "timestamp_osm_base": "2026-09-12T06:14:21Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "osm-tower.json": {
+      "timestamp_osm_base": "2026-09-12T06:28:36Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    }
+  }
+}

@@ -1,0 +1,8 @@
+[out:json][timeout:60];
+(
+ nwr["natural"="wood"](37.514,127.112,37.527,127.132);
+ nwr["landuse"="forest"](37.514,127.112,37.527,127.132);
+ way["natural"="tree_row"](37.514,127.112,37.527,127.132);
+ relation["landuse"="grass"](37.514,127.112,37.527,127.132);
+);
+out body geom;

@@ -1,0 +1,132 @@
+{
+  "survey_accuracy": "NOT VERIFIED: no independent surveyed ground control or local high-resolution DEM supplied",
+  "coordinate_system": "Local WGS84 metre-scale tangent approximation; +X east, -Z north",
+  "landmarks": [
+    {
+      "name": "OLYMPIC HALL",
+      "latitude": 37.51473271534005,
+      "longitude": 127.12758928643461,
+      "geodesic_distance_m": 1149.0618470098798,
+      "projection_error_m": 0.02369896909340241,
+      "rendered_dem_altitude_m": 26.85574042141308,
+      "height_source": "estimated height"
+    },
+    {
+      "name": "WOORI ART HALL",
+      "latitude": 37.51672946377841,
+      "longitude": 127.12505288466954,
+      "geodesic_distance_m": 871.8193253394343,
+      "projection_error_m": 0.008816124845793638,
+      "rendered_dem_altitude_m": 22.66016416612083,
+      "height_source": "estimated height"
+    },
+    {
+      "name": "HANDBALL ARENA",
+      "latitude": 37.5173450488623,
+      "longitude": 127.12640095429569,
+      "geodesic_distance_m": 979.0033607759475,
+      "projection_error_m": 0.005894212831208279,
+      "rendered_dem_altitude_m": 24.288212765790227,
+      "height_source": "estimated height"
+    },
+    {
+      "name": "KSPO DOME",
+      "latitude": 37.51923118938541,
+      "longitude": 127.12747005796392,
+      "geodesic_distance_m": 1072.4416635104783,
+      "projection_error_m": 0.006010752466863778,
+      "rendered_dem_altitude_m": 31.276126822070573,
+      "height_source": "estimated height"
+    },
+    {
+      "name": "OLYMPIC SWIMMING POOL",
+      "latitude": 37.52092384992561,
+      "longitude": 127.12663925961913,
+      "geodesic_distance_m": 1035.5009663394421,
+      "projection_error_m": 0.016811586654057464,
+      "rendered_dem_altitude_m": 30.31001715823916,
+      "height_source": "estimated height"
+    },
+    {
+      "name": "HANSEONG BAEKJE MUSEUM",
+      "latitude": 37.5154340423788,
+      "longitude": 127.12086856238632,
+      "geodesic_distance_m": 579.9733471091516,
+      "projection_error_m": 0.007654570360159596,
+      "rendered_dem_altitude_m": 31.185294839839603,
+      "height_source": "estimated height"
+    },
+    {
+      "name": "SEOUL OLYMPIC PARKTEL",
+      "latitude": 37.522201153988156,
+      "longitude": 127.11649178834998,
+      "geodesic_distance_m": 442.30871746465215,
+      "projection_error_m": 0.0004292302810995352,
+      "rendered_dem_altitude_m": 23.393666565304226,
+      "height_source": "OSM height"
+    },
+    {
+      "name": "SOMA MUSEUM",
+      "latitude": 37.51688218677907,
+      "longitude": 127.1180516249191,
+      "geodesic_distance_m": 283.60885737953566,
+      "projection_error_m": 0.0018408760648185307,
+      "rendered_dem_altitude_m": 26.331700621305416,
+      "height_source": "estimated height"
+    },
+    {
+      "name": "WORLD PEACE GATE",
+      "latitude": 37.51831037115566,
+      "longitude": 127.11539719141619,
+      "geodesic_distance_m": 0.4324306511505351,
+      "projection_error_m": 0.0003394956941843441,
+      "rendered_dem_altitude_m": 18.690589583089935,
+      "height_source": "OSM height"
+    },
+    {
+      "name": "LOTTE WORLD TOWER",
+      "latitude": 37.5125537,
+      "longitude": 127.102679,
+      "geodesic_distance_m": 1293.1123652329895,
+      "projection_error_m": 0.037567850796222046,
+      "rendered_dem_altitude_m": 25.79877746023068,
+      "height_source": "OSM height; LOTTE published height"
+    },
+    {
+      "name": "LONE TREE",
+      "latitude": 37.5227406,
+      "longitude": 127.1203766,
+      "geodesic_distance_m": 659.9289644821237,
+      "projection_error_m": 0.009146004761305448,
+      "rendered_dem_altitude_m": 32.064883619613575,
+      "height_source": "approximate tree height"
+    }
+  ],
+  "dem_mesh_vs_source": {
+    "samples": 1416,
+    "mean_m": -0.008511972183317338,
+    "rmse_m": 0.26226488586222724,
+    "max_abs_m": 4.246113553256858
+  },
+  "old_backend_nearest_vertex_vs_rendered": {
+    "samples": 1416,
+    "mean_m": 0.007786348870057206,
+    "rmse_m": 0.9175070770884693,
+    "max_abs_m": 5.5742199999999915
+  },
+  "visible_building_heights": {
+    "estimated height": 132,
+    "OSM height": 212,
+    "OSM levels \u00d7 3 m (estimated)": 52
+  },
+  "source_sha256": {
+    "14-13976-6347.png": "c5a137c33ebb670a905a8fb338688d5645b5a41149a5f5bff802022420047e16",
+    "14-13977-6347.png": "acaa6aa884686e629f71c43189418435da580299455ce41a69f3b5d563b90316",
+    "14-13977-6346.png": "5ba6cbe1d074d1d0cbc21b6897e08ce45cc277bff9fcbc0565aa8995e91b0890",
+    "14-13976-6346.png": "bd1cacf52d938090ae161cb7ef9e79f832851946233672a6a3e89bdd7864ee48",
+    "14-13978-6347.png": "cf5184eddf7f640a4daa06ef9d35f206903a45f82f211e0fc84cfb9046a27405",
+    "14-13978-6346.png": "66352cdeef9af02d0b777c8a482bbbf9f7660dbc75727e0cb1b6debfd8ac0d19"
+  },
+  "official_reference": "https://www.ksponco.or.kr/olympicpark/map",
+  "high_resolution_data_provider": "https://map.ngii.go.kr/ms/map/NlipMap.do?menu=emap"
+}

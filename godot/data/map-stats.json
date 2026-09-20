@@ -1,0 +1,14 @@
+{
+  "buildings": 1563,
+  "roads": 1655,
+  "water_polygons": 9,
+  "trees": 19,
+  "landmarks": 11,
+  "height_sources": {
+    "OSM levels \u00d7 3 m (estimated)": 172,
+    "OSM height": 830,
+    "estimated height": 561
+  },
+  "metres_per_unit": 1,
+  "datum_m": 18.672282809275202
+}

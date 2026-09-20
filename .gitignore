@@ -1,0 +1,17 @@
+godot/.godot/
+*.blend1
+godot/*.log
+rust/target/
+godot/bin/*.dylib
+godot/bin/*.so
+godot/bin/*.dll
+build/
+# Build output, not a source: build_park_environment.py writes it and imports
+# park-dressing.glb into it, so the tracked copy would be ~28 MB of duplication.
+blender/olympic_park_environment.blend
+# Godot unpacks textures embedded in a .glb next to it on first import.
+# They are regenerated from the .glb, so tracking them duplicates the asset.
+godot/assets/cb-robot_*.png
+godot/assets/cb-robot_*.png.import
+godot/assets/park-litter-bin_*.png
+godot/assets/park-litter-bin_*.png.import

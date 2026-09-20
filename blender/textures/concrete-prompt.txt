@@ -1,0 +1,6 @@
+Use case: photorealistic-natural
+Asset type: seamless PBR base color texture for architectural concrete in Blender and Godot
+Primary request: photographically realistic light warm gray exposed fine aggregate architectural concrete, subtle pores, restrained rain weathering, very fine mottled mineral variation, clean modern Seoul architecture.
+Composition: flat orthographic surface filling entire square, seamless tile in both directions, represents two metres square.
+Lighting: perfectly diffuse neutral illumination, no baked shadows, no highlights.
+Constraints: no objects, windows, panel seams, lettering, borders, watermark or perspective. Neutral low contrast albedo, microstructure visible at close range.
